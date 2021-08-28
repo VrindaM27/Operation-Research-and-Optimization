@@ -1,3 +1,4 @@
 # Operation-Research-and-Optimization
 
-Lab assignments for Operation Research and Optimization Lab - Btech CSE (5th Sem)
+Lab Assignments: Operation Research and Optimization 
+Btech CSE (5th Sem)
